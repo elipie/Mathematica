@@ -4,5 +4,5 @@ Mathematica is a language that focuses, well, on *math*. Right now it is just a 
 
 # Use it!
 
-Right now, it only has these operators: `+, -, /, *, ==, !=, >, <`
+Right now, it only has these operators: `+, -, /, *, !=, >, <`
 
